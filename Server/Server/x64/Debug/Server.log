@@ -1,5 +1,0 @@
-﻿  main.cpp
-D:\Github-Rep\cpp-ChatApp\Server\Server\main.cpp(90,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-D:\Github-Rep\cpp-ChatApp\Server\Server\main.cpp(144,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-D:\Github-Rep\cpp-ChatApp\Server\Server\main.cpp(165,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  Server.vcxproj -> D:\Github-Rep\cpp-ChatApp\Server\x64\Debug\Server.exe
