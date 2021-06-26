@@ -12,7 +12,7 @@
 2. Extract it
 3. Go to ChatClient/
 4. Run ChatClient.sln (I use Visual Studio 2019)
-5. Build on Debug / x86
+5. Build solution on Debug / x86
 
 ## How to use
 1. Run .\Debug\Server.exe
