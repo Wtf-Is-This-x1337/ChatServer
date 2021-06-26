@@ -2,10 +2,10 @@
 -> C# WinForms application to talk to a multi-chat server
 ## Images:    
 -> Settings         
-![alt text](https://github.com/Wtf-Is-This-x1337/ChatClient/blob/main/images/settings.png?raw=true)
+![alt text](https://github.com/Wtf-Is-This-x1337/ChatServer/blob/main/images/setup.png?raw=true)
               
--> Main         
-![alt text](https://github.com/Wtf-Is-This-x1337/ChatClient/blob/main/images/main.png?raw=true)     
+-> Main && Connection example (username, message, command)         
+![alt text](https://github.com/Wtf-Is-This-x1337/ChatServer/blob/main/images/main.png?raw=true)     
 
 ## How to build
 1. Download the file (code -> download ZIP)
